@@ -1,2 +1,0 @@
-# m h  dom mon dow   command
-30  8   *   *   *   /etc/bind/bind-adblock/venv/bin/python3 /etc/bind/bind-adblock/update-zonefile.py /etc/bind/rpz.home.ericoc.com.zone rpz.home.ericoc.com
